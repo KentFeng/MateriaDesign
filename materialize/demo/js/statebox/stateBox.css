@@ -1,0 +1,36 @@
+/**
+ * stateBox
+*/
+.ui-stateBox {
+	border:#CCCCCC 1px solid;
+	background-color:#EAEAEA;
+	width:300px;
+	min-height:16px;
+	padding:7px;
+	text-align:center;
+	line-height:32px;
+	overflow-y:hidden;
+	position:fixed;
+	bottom:50px;
+	left:50%;
+	margin-left:-150px;
+	z-index:999;
+}
+
+.ui-stateBox-succeed {
+	border:#a7d093 1px solid;
+	background-color:#ddffd5;
+	z-index: 2147483647;
+}
+
+.ui-stateBox-alert {
+    color:#fff;
+	background-color:#ACAEAF;
+	z-index: 2147483647;
+}
+
+.ui-stateBox-error {
+	border:#e08989 1px solid;
+	background-color:#ffdfdf;
+	z-index: 2147483647;
+}
