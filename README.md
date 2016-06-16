@@ -2,7 +2,7 @@
 学习和研究google Material Design设计风格。
 
 ## 文档
-- [google design](https://design.google.com/) `官方文档，有条件的翻墙`
+- [google design](https://design.google.com/) 
 - [md风格动效指南1～3](http://www.uisdc.com/tag/material-design)  或者看[全文](http://www.zcool.com.cn/article/ZNDA1NjIw.html)
 - [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
 
@@ -29,7 +29,7 @@ http://www.open-open.com/lib/view/open1416277425289.html
 文档很清晰，有中文文档，但是功能不是很全，可以不考虑
 - [`Materialize`](http://materializecss.com) 
 英文文档，但是功能比较全，可以进一步考虑。
--[`Materialize框架-中文版`](http://www.materialscss.com)
+- [`Materialize框架-中文版`](http://www.materialscss.com)
 
 
 # 研究android开发
